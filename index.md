@@ -19,6 +19,11 @@ You can find User Guides, Published Research Papers in each repository.
 
 #### 2019-2020
 
-1. [ALERT: Alert signal detection and integration to speech enhancement]()
-2. [SE: Minimum Variance Distortionless Response (MVDR) + Speech Enhancement]()
+1. [ALERT: Alert signal detection and integration to speech enhancement](https://github.com/ssprl/Alert-signal-detector-and-separator)
+2. [SE: Minimum Variance Distortionless Response (MVDR) + Speech Enhancement](https://github.com/ssprl/MVDR-Speech-Enhancement)
 2. [SE: Dual channel RNN based speech enhancement]()
+4. [DOA: Real-Time Convolutional Neural Network Based Speech Source Localization on Smartphone](https://github.com/ssprl/Real-Time-Convolutional-Neural-Network-Based-Speech-Source-Localization-on-Smartphone)
+5. [AFC: Adaptive Noise Injection Based Acoustic Feedback Cancellation](https://github.com/ssprl/Acoustic-Feedback-Cancellation)
+6. [COMP: Frequency based Adaptive Wide Dynamic Range Compression](https://github.com/ssprl/Adaptive-Multiband-Dynamic-Range-Compression)
+7. [SE: A real-time convolutional neural network based speech enhancement for hearing impaired listeners using smartphone](https://github.com/ssprl/Real-time-convolutional-neural-network-based-speech-enhancement)
+8. [VAD: Automated machine learning: Speech classification for hearing aid applications and its real-time implementation on smartphone](https://github.com/ssprl/AutoML-based-Voice-Activity-Detector-VAD)
