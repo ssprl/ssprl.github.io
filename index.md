@@ -1,9 +1,6 @@
 ## SSPRL Lab GitHub Repository
 
-This research is supported by National Institutes of Health (NIH)-National Institute on Deafness and Other communication Disorders (NIDCD) under award number R01DC015430.The content of this website is solely the responsibility of the contributors and does not necessarily represent the official views of the National Institutes of Health.
-
 This page provides the codes(MATLAB, C/C++, Java, Objective-C files) conducted in SSPRL Lab at the University of Texas at Dallas (UTD) and used in Smartphone-Based Open Research Platform for Hearing Improvement Studies. 
-
 
 ### Code Packages
 
