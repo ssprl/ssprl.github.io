@@ -2,9 +2,12 @@
 
 This research is supported by National Institutes of Health (NIH)-National Institute on Deafness and Other communication Disorders (NIDCD) under award number R01DC015430.The content of this website is solely the responsibility of the contributors and does not necessarily represent the official views of the National Institutes of Health.
 
+This page provides the codes(MATLAB, C/C++, Java, Objective-C files) conducted in SSPRL Lab at the University of Texas at Dallas (UTD) and used in Smartphone-Based Open Research Platform for Hearing Improvement Studies. 
+
+
 ### Code Packages
 
-You can find User Guides, Published Research Papers in each repository.
+Codes, User Guides can be downloaded from the GitHub repository listing below.
 
 - DOA: Direction of Arrival Estimation and Speech source Localization
 - SE: Speech Enhancement (including the speech classification and clinical testing)
