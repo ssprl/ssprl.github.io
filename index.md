@@ -1,6 +1,7 @@
 ## SSPRL Lab GitHub Repository
 
-This page provides the codes(MATLAB, C/C++, Java, Objective-C files) conducted in SSPRL Lab at the University of Texas at Dallas (UTD) and used in Smartphone-Based Open Research Platform for Hearing Improvement Studies. 
+- This page provides the codes(MATLAB, C/C++, Java, Objective-C files) conducted in SSPRL Lab in Electrical and Computer Engineering Department at the University of Texas at Dallas (UTD) and used in Smartphone-Based Open Research Platform for Hearing Improvement Studies. 
+- The information and materials contained in this website is a presentation of the documented research work carried out by the faculty, students and personnel at the University of Texas at Dallas (UTD). This website including its content is available for public access with the understanding that UTD and the authorized faculty and students contributing to this website make no warranties, either expressed or implied, concerning the completeness, reliability, or suitability of the presented materials for any kind of applications. Neither UTD nor any contributor to this website and its content shall be held liable to any party for any use or misuse of the information and materials contained in this website in any form or shape. Nor does the UTD warrant that the use of this website information is free of any claims of copyright infringement. This website does not endorse any commercial providers or their products. UTD and faculty managing this website reserve the right to remove, update, alter, or take down any and all posted materials on this website at any time without notice.
 
 ### Code Packages
 
@@ -9,7 +10,7 @@ Codes, User Guides can be downloaded from the GitHub repository listing below.
 - DOA: Direction of Arrival Estimation and Speech source Localization
 - SE: Speech Enhancement (including the speech classification and clinical testing)
 - SI: Speaker Identification
-- ALERT: Alert Signal Detection and Treatment
+- ASDS: Alert Signal Detection and Separation
 - AFC: Acoustic Feedback Cancellation
 - COMP: Compression, Fitting
 - VAD: Voice Activation Detection
@@ -19,13 +20,12 @@ Codes, User Guides can be downloaded from the GitHub repository listing below.
 
 #### 2019-2020
 
-1. [ALERT: Alert signal detection and integration to speech enhancement](https://github.com/ssprl/Alert-signal-detector-and-separator)
+1. [ASDS: Alert signal detection and integration to speech enhancement](https://github.com/ssprl/Alert-signal-detector-and-separator)
 2. [SE: Speech Enhancement using super-Gaussian joint maximum a posteriori (SGJMAP) - SHARP 1](https://github.com/ssprl/Super-Gaussian-Single-Microphone-Speech-Enhancement)
 3. [SE: Minimum Variance Distortionless Response (MVDR) + Speech Enhancement](https://github.com/ssprl/MVDR-Speech-Enhancement)
-4. [SE: Dual channel RNN based speech enhancement](https://github.com/ssprl/Dual-channel-RNN-based-Speech-Enhacnement)
-5. [SE: A real-time convolutional neural network based speech enhancement for hearing impaired listeners using smartphone](https://github.com/ssprl/Real-time-convolutional-neural-network-based-speech-enhancement)
-6. [DOA: Real-Time Convolutional Neural Network Based Speech Source Localization on Smartphone](https://github.com/ssprl/Real-Time-Convolutional-Neural-Network-Based-Speech-Source-Localization-on-Smartphone)
-7. [DOA: Direction of arrival estimation using deep neural network for hearing aid applications using smartphone](https://github.com/ssprl/Direction-of-arrival-estimation-using-deep-neural-network)
-8. [AFC: Adaptive Noise Injection Based Acoustic Feedback Cancellation](https://github.com/ssprl/Acoustic-Feedback-Cancellation)
-9. [COMP: Frequency based Adaptive Wide Dynamic Range Compression](https://github.com/ssprl/Adaptive-Multiband-Dynamic-Range-Compression)
-10. [VAD: Automated machine learning: Speech classification for hearing aid applications and its real-time implementation on smartphone](https://github.com/ssprl/AutoML-based-Voice-Activity-Detector-VAD)
+4. [SE: A real-time convolutional neural network based speech enhancement for hearing impaired listeners using smartphone](https://github.com/ssprl/Real-time-convolutional-neural-network-based-speech-enhancement)
+5. [DOA: Real-Time Convolutional Neural Network Based Speech Source Localization on Smartphone](https://github.com/ssprl/Real-Time-Convolutional-Neural-Network-Based-Speech-Source-Localization-on-Smartphone)
+6. [DOA: Direction of arrival estimation using deep neural network for hearing aid applications using smartphone](https://github.com/ssprl/Direction-of-arrival-estimation-using-deep-neural-network)
+7. [AFC: Adaptive Noise Injection Based Acoustic Feedback Cancellation](https://github.com/ssprl/Acoustic-Feedback-Cancellation)
+8. [COMP: Frequency based Adaptive Wide Dynamic Range Compression](https://github.com/ssprl/Adaptive-Multiband-Dynamic-Range-Compression)
+9. [VAD: Automated machine learning: Speech classification for hearing aid applications and its real-time implementation on smartphone](https://github.com/ssprl/AutoML-based-Voice-Activity-Detector-VAD)
