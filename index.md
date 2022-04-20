@@ -20,7 +20,7 @@ Codes, User Guides can be downloaded from the GitHub repository listing below.
 - GUI: Graphical User Interface
 
 #### 2019-2020 
-Please contact Issa Panahi (issa.panahi@utdallas.edu) for the codes
+Please contact Issa Panahi (issa.panahi@utdallas.edu) for the codes.
 
 1. [ASDS: Alert signal detection and integration to speech enhancement](https://github.com/ssprl/Alert-signal-detector-and-separator)
 2. [SE: Speech Enhancement using super-Gaussian joint maximum a posteriori (SGJMAP) - SHARP 1](https://github.com/ssprl/Super-Gaussian-Single-Microphone-Speech-Enhancement)
